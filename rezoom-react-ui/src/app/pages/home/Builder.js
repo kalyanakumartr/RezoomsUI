@@ -328,7 +328,7 @@ export default function Builder() {
                             <code>Solid</code> subheader style.
                           </FormHelperText>
                         </div>
-                      </div>
+                      </div >
 
                       <div className="form-group row">
                         <label className="col-lg-3 col-form-label">

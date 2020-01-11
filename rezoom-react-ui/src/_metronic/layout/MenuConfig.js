@@ -518,7 +518,7 @@ export default {
       },
       { section: "Components" },
       {
-        title: "Material UI",
+        title: "Material UI - Ananth",
         root: true,
         bullet: "dot",
         icon: "flaticon2-browser-2",

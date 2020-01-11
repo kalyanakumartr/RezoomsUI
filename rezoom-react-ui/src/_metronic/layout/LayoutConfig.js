@@ -1,7 +1,7 @@
 import { toAbsoluteUrl } from "../utils/utils";
 
 export const initLayoutConfig = {
-  demo: "demo1",
+  demo: "This is a Test Application for Testing React By Ananth B",
   // == Base Layout
   self: {
     layout: "fluid",
